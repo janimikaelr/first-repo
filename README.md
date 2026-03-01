@@ -11,3 +11,8 @@ Main findings:
 - East and South regions show lower average sales and customer footfall.
 
 The repository includes the full analysis notebook, dataset, and written business report.
+
+## Files
+- `sales_data_analysis.ipynb`: analysis notebook
+- `report_sales_data_analysis.pdf`: written overview
+- `sales_data.csv`: dataset
